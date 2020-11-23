@@ -13,6 +13,7 @@ Day 1:
 11. Handle keyboard key press events for image saving purpose
 12. Extract a Region of Image (ROI)
 13. Paste this ROI at some other place in the same image.
+
 Day 2: 
 1. Color Detection in an image 
 2. Extract a part of image and save it using mouse event
