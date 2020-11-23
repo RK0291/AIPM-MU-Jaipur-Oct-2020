@@ -1,0 +1,3 @@
+1. Color Detection in an image 
+2. Extract a part of image and save it using mouse event
+3. Image resizing as per user input values
